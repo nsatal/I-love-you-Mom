@@ -22,5 +22,6 @@ function move_image(){
         {
             i=0;
         }
+    document.getElementById("song").play();
 }
 
